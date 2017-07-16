@@ -1,0 +1,14 @@
+.resume-photo{
+    width: 220px;
+    height: 180px;
+    background: url("img/P60602-190005.jpg") no-repeat center center / contain;
+    border-radius: 100%;
+    float: left;
+    margin-right: 30px;
+}
+
+.resume-desctiption{
+    font-size: 1em;
+    font-family: Verdana;
+}
+
