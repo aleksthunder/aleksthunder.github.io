@@ -1,2 +1,2 @@
 # aleksthunder.github.io
-# My mini-resume
+My mini-resume
